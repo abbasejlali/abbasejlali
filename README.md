@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abbasejlali
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning react
 - 📫 How to reach me ? https://wwww.instagram.com/abbas.ejlali1 and abbas.ejlali@iran.ir
 
 <!---
