@@ -1,7 +1,7 @@
 ### **Hi there** :wave:
 
 
-My name is Abbas Ajlali and I work as a front end developer in Tehran
+My Name Is Abbas Ejlali And I Work As a Front End Developer In Tehran
 
 ### :scroll: A little more about me...
 
