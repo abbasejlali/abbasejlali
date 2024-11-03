@@ -8,8 +8,8 @@ My Name Is Abbas Ejlali And I Work As a Front End Developer In Tehran
 ```
  let AbbasEjlali = {
       Pronouns: "He" | "Him",
-      AboutMe: "I'm Front End Developer",
-      Language: "javaScript",
+      AboutMe: "I'm FullStack Developer",
+      Language: "JavaScript | TypeScript",
       MyStack: {
         FrontEnd: {
           Frameworks: "Next Js",
@@ -20,20 +20,25 @@ My Name Is Abbas Ejlali And I Work As a Front End Developer In Tehran
             "Graph QL",
             "RestApi",
             "Material Ui",
+            "React Query",
           ],
         },
       },
-      CurrentFocus: "Next Js Web Development",
+      CurrentFocus: "Clean code and reusable code",
     };
 ```
 ## :heavy_check_mark: Expertise
 **:black_medium_small_square: JavaScript ES6+**
+
+**:black_medium_small_square: TypeScript**
 
 **:black_medium_small_square: React Js**
 
 **:black_medium_small_square: Next Js**
 
 **:black_medium_small_square: Redux Toolkit**
+
+**:black_medium_small_square: React Query**
 
 **:black_medium_small_square: Graph QL | RestApi**
 
