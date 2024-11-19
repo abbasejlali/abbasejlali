@@ -8,7 +8,7 @@ My Name Is Abbas Ejlali And I Work As a Fullstack Developer In Tehran
 ```
  let AbbasEjlali = {
       Pronouns: "He" | "Him",
-      AboutMe: "I'm FullStack Developer",
+      AboutMe: "I'm Front End Developer",
       Language: "JavaScript | TypeScript",
       MyStack: {
         FrontEnd: {
