@@ -1,7 +1,7 @@
 ### **Hi there** :wave:
 
 
-My Name Is Abbas Ejlali And I Work As a Fullstack Developer In Tehran
+My Name Is Abbas Ejlali And I Work As a Front End Developer In Tehran
 
 ### :scroll: A little more about me...
 
